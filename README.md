@@ -1,1 +1,1 @@
-Simple caculator coding by html, javascript and css.
+Simple caculator code by HTML, JavaScript and CSS.
